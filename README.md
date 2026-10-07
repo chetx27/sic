@@ -1,4 +1,4 @@
-# Samsung Innovation Campus — AI & Machine Learning
+# Samsung Innovation Campus - AI & Machine Learning
 
 This repository contains my learning, experiments, and practical work from the **Samsung Innovation Campus (SIC)** program.
 
@@ -113,4 +113,3 @@ Build a strong practical foundation in **AI and Machine Learning**, progress fro
 ---
 
 **SIC Lab | Learning AI by Building, Experimenting, and Researching**
-
