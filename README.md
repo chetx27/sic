@@ -110,6 +110,8 @@ sic/
 
 Build a strong practical foundation in **AI and Machine Learning**, progress from fundamentals to research-oriented implementation, and document the complete learning journey through code, experiments, and projects.
 
+
+*Done by students*
 ---
 
 **SIC Lab | Learning AI by Building, Experimenting, and Researching**
