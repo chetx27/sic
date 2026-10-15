@@ -74,7 +74,7 @@ This includes understanding:
 * Prediction and inference
 * Applications of AI to real-world problems
 
-## Research & Project Direction
+### Research & Project Direction
 
 The knowledge gained through SIC will be applied toward a **research-oriented AI/ML project**.
 
